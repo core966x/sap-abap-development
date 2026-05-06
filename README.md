@@ -2,7 +2,7 @@
 
 🌱 Focused on learning and developing skills in SAP ABAP programming  
 ⚙️ Exploring SAP S/4HANA environment and enterprise system development  
-📚 Currently undergoing SAP-related training and hands-on practice  
+📚 SAP-related training and hands-on practice  
 
 ---
 
@@ -29,8 +29,7 @@ It includes basic concepts, exercises, and technical understanding of SAP system
 - SAP ABAP Programming  
 - SAP S/4HANA Fundamentals  
 - System Analysis in SAP Environment  
-- Problem-solving in enterprise systems  
-- Basic understanding of SAP Basis concepts  
+- Problem-solving in enterprise systems    
 
 ---
 
